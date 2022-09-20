@@ -8,13 +8,6 @@
 ###### 여섯번째 제목
 ####### 일곱번째 제목
 
-*This text will be italic*
-  _This will also be italic_
-  **This text will be bold**
-  __This will also be bold__
-  ~~This is canceled~~
-  *You **can** combine them*
-  
   As Grace Hopper said:
 > I’ve always been more interested in the future than in the past.    
 > This is a first blockquote.
