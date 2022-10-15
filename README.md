@@ -17,5 +17,3 @@
 [Google](http://www.google.com "구글")
 [Naver](http://www.naver.com "네이버")
 [Github](http://www.github.com "깃허브")
-구글 www.google.com; 꺽쇠없음
-네이버 <www.naver.com>; 꺽쇠있음
