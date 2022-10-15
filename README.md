@@ -44,3 +44,12 @@
 ### 하이퍼링크를 다는 방법
 
 1. 꺽쇠 안에 링크 주소를 단다. <https://naver.com>
+
+#이미지 첨부 방법
+
+*링크와 사용법이 비슷하나, 조금 다르다
+ * 경로 앞에 느낌표(!)를 달아주어야 한다.
+ + 하지만 웹에 이미지를 가지고 있지 않다면
+ - 깃허브에 업로드한 사진을 활용하면 된다.
+ * 이렇게 말이다.
+ *1[연습용 이미지](https://github.com/asdfggg12/AIControl/blob/main/vim-commands-cheat-sheet-by-pnap-1.pdf)
